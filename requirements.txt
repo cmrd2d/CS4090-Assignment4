@@ -5,4 +5,4 @@ pytest-cov
 pytest-html
 pytest-xdist
 pytest-bdd
-hyporhesis
+hypothesis
